@@ -1,0 +1,19 @@
+{
+  "name": "newweb1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahaab11/newweb1.git"
+  },
+  "author": "wahaab11",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wahaab11/newweb1/issues"
+  },
+  "homepage": "https://github.com/wahaab11/newweb1#readme"
+}

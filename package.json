@@ -13,5 +13,12 @@
     "gh-pages": "^3.1.0"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "��#\u0000 \u0000n\u0000e\u0000w\u0000w\u0000e\u0000b\u0000\r\u0000 \u0000",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahaab11/newweb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wahaab11/newweb/issues"
+  }
 }
